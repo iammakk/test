@@ -1,0 +1,54 @@
+.last{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    /* margin-top: 50px;
+    margin-bottom: 50px; */
+    margin: 50px auto;
+    gap: 2rem 0;
+    padding-bottom: 10px;
+    max-width: 70%;
+    border-bottom: 3px dashed black;
+}
+
+.last1{
+    font-size: 14px;
+    font-weight: 500;
+    max-width: 230px;
+    margin-top: 1rem;
+    margin-right: 15px;
+}
+.last1 img{
+ height: 40px;
+}
+
+.last2{
+  
+    width: 230px;
+    margin-left: 40px;
+  
+}
+.last3{
+    max-width: 300px;
+}
+.last3 p{
+   margin-left: 10px;
+}
+.call1{
+    display: flex;
+}
+.add1{
+    display: flex;
+}
+
+
+@media screen and (max-width:737px){
+    .last2{
+  
+        width: 230px;
+        margin-left: 20px;
+      
+    }
+ 
+     }

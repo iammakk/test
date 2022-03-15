@@ -1,0 +1,51 @@
+.sndlast{
+    display: flex;
+    background-color:   #fc3;
+    margin-top: 50px;
+    padding: 80px;
+    flex-wrap: wrap;
+    gap:2rem  4rem;
+    justify-content: center;
+    align-items: center;
+}
+.sndlast_content{
+
+
+    background-color: #fff;
+    height: 215px;
+    width: 200px;
+    padding: 15px;
+    border-radius: 7px;
+    box-shadow: 0 0 11px 1px rgb(0 0 0 / 38%);
+  
+  
+}
+.sndlast_content p{
+line-height: 25px;
+
+}
+.sndlast_content h5{
+   font-size: 20px;
+}
+    
+
+.circles2 {
+    display: flex;
+    
+    height: 2px;
+  
+    margin-bottom: 10px;
+    justify-content: space-evenly;
+}
+
+
+.logo_sndlast{
+    display: flex;
+    justify-content: space-between;
+}
+.logo_sndlast img{
+    height: 40px;
+}
+.logo_sndlast span{
+text-decoration: underline;
+}

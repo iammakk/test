@@ -1,0 +1,59 @@
+.headingfirst {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 40px;
+  
+}
+.headingfirst span{
+    color: #fc3;;
+}
+.headingfirst h4{
+   font-size: 20px;
+}
+.headingfirst img{
+height: 15px;
+ }
+
+
+ /* ===================== */
+
+ .teachers_names{
+     display: flex;
+     flex-wrap: wrap;
+     align-items: center;
+     gap: 2rem 8rem;
+     max-width: 1000px;
+     margin: 2rem auto ;
+     justify-content: center;
+ }
+
+ .teacherall{
+     width:20%;
+ }
+.teacher{
+    text-align: center;
+
+    align-items: center;
+}
+
+ .teacher img{
+    height: 185px;
+    width: 187px;
+ }
+
+
+ .rating_icon{
+    
+     text-align: center;
+     
+    
+ }
+ @media screen and (max-width:800px){
+    .teacherall{
+        
+        width: 100%;
+       
+    }
+ 
+     }

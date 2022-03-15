@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    background-color: #fc3;
+    padding: 10px 15px;
+    align-items: center;
+  
+}
+.tabss{
+    padding:  10px 100px;
+    border-bottom: 2px solid black;
+}
+
+.mobile_white {
+    display: flex;
+    padding: 10px 20px;
+    background-color: #fc3;
+    font-weight: bold;
+   
+}
+
+.mobile_white img{
+  margin-right: 10px;
+  
+}
+.call{
+    margin-right: 10px;
+}
